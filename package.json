@@ -1,7 +1,7 @@
 {
   "name": "es6-promise-min",
   "namespace": "es6-promise",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A minified, bundled version of es6-promise.",
   "main": "dist/es6-promise.min.js",
   "files": [
