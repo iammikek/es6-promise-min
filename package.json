@@ -1,9 +1,12 @@
 {
-  "name": "es6-promise",
+  "name": "es6-promise-min",
   "namespace": "es6-promise",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "description": "A lightweight library that provides tools for organizing asynchronous code",
-  "main": "dist/es6-promise.js",
+  "main": "dist/es6-promise.min.js",
+  "files": [
+    "dist/es6-promise.min.js"
+  ],
   "directories": {
     "lib": "lib"
   },
@@ -43,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jakearchibald/ES6-Promises.git"
+    "url": "git://github.com/ide/es6-promise-min.git"
   },
   "bugs": {
-    "url": "https://github.com/jakearchibald/ES6-Promises/issues"
+    "url": "https://github.com/ide/es6-promise-min/issues"
   },
   "keywords": [
     "promises",
